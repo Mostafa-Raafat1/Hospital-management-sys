@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1734882079 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assignment222__\src\doctor.cpp
+	"Doctor.h"
+
+1734882021 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assignment222__\src\surgeon.cpp
+	"Surgeon.h"
+
+1734891607 c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assignment222__\include\surgeon.h
+	<iostream>
+	<string>
+	"Doctor.h"
+
+1734890728 c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assignment222__\include\doctor.h
+	<iostream>
+	<string>
+
+1734891607 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\assignment222__\main.cpp
+	<iostream>
+	"Doctor.h"
+	"Surgeon.h"
+	<string>
+	<fstream>
+	<typeinfo>
+
+1734882079 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\new folder\assignment222__\src\doctor.cpp
+	"Doctor.h"
+
+1734893827 c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\new folder\assignment222__\include\doctor.h
+	<iostream>
+	<string>
+
+1734882021 source:c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\new folder\assignment222__\src\surgeon.cpp
+	"Surgeon.h"
+
+1734893826 c:\users\moustafa\onedrive\desktop\classes\supermarketsystem\new folder\assignment222__\include\surgeon.h
+	<iostream>
+	<string>
+	"Doctor.h"
+
